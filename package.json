@@ -1,0 +1,26 @@
+{
+  "name": "alurabank",
+  "version": "1.0.0",
+  "description": "Aulas alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leomeneguzzi/typescript-alurabank.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leomeneguzzi/typescript-alurabank/issues"
+  },
+  "homepage": "https://github.com/leomeneguzzi/typescript-alurabank#readme",
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  }
+}
