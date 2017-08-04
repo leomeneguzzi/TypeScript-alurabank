@@ -60,3 +60,4 @@ internal/
 yarn.lock
 package-lock.json
 app/js/*
+*.log
