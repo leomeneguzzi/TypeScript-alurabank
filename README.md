@@ -1,2 +1,2 @@
-# typescript-alurabank
-Projeto usado nas aulas de typescript da Alura.
+# TypeScript-alurabank
+Projeto usado nas aulas de TypeScript da Alura.
